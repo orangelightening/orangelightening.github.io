@@ -139,6 +139,15 @@ figurePositionLabel is a string which will be prepended to any alt text of an ar
     </item>
     
     <item>
+      <title>Testing the change mechanics</title>
+      <link>https://orangelightening.github.io/post/2021-02-16-testing-the-change-mechanics/</link>
+      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://orangelightening.github.io/post/2021-02-16-testing-the-change-mechanics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hello R Markdown</title>
       <link>https://orangelightening.github.io/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
